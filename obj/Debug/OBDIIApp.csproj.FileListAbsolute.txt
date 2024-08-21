@@ -1,0 +1,10 @@
+D:\CsharpProjects\OBDIIApp\bin\Debug\OBDIIApp.exe.config
+D:\CsharpProjects\OBDIIApp\bin\Debug\OBDIIApp.exe
+D:\CsharpProjects\OBDIIApp\bin\Debug\OBDIIApp.pdb
+D:\CsharpProjects\OBDIIApp\bin\Debug\InTheHand.Net.Personal.dll
+D:\CsharpProjects\OBDIIApp\bin\Debug\InTheHand.Net.Personal.xml
+D:\CsharpProjects\OBDIIApp\obj\Debug\OBDIIApp.csproj.AssemblyReference.cache
+D:\CsharpProjects\OBDIIApp\obj\Debug\OBDIIApp.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\OBDIIApp\obj\Debug\OBDIIApp.csproj.Up2Date
+D:\CsharpProjects\OBDIIApp\obj\Debug\OBDIIApp.exe
+D:\CsharpProjects\OBDIIApp\obj\Debug\OBDIIApp.pdb

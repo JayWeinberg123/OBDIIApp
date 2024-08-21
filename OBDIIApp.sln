@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBDIIApp", "OBDIIApp.csproj", "{03E82DA3-0769-49A5-9AEA-ACD9E8B6FFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E82DA3-0769-49A5-9AEA-ACD9E8B6FFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E82DA3-0769-49A5-9AEA-ACD9E8B6FFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E82DA3-0769-49A5-9AEA-ACD9E8B6FFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E82DA3-0769-49A5-9AEA-ACD9E8B6FFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {817F55D6-5299-4111-B4E7-53A677BA9688}
+	EndGlobalSection
+EndGlobal
